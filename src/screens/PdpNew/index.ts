@@ -1,0 +1,1 @@
+export { PdpNew } from "./PdpNew";
